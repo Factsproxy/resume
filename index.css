@@ -1,0 +1,40 @@
+body {
+    margin: 0px;
+    background-color: #eee;
+}
+
+.title {
+    font-size: 1.1rem;
+    margin: 10px 0px;
+}
+
+p {
+    line-height: 1.8rem;
+    font-size: 1.05rem;
+}
+
+.container {
+    width: 700px;
+    margin: 30px auto;
+    padding: 30px;
+    background-color: #eaeaea;
+    border-radius: 6px;
+    box-shadow: 0 0 1px #eee;
+}
+
+h1 {
+    margin: 0px;
+    border-bottom: 2px solid #6ddccf;
+    padding: 10px 0px;
+}
+
+
+
+
+
+h3, h4 {
+    display:inline-block;
+    border-bottom: 2px solid #94ebcd;
+    padding: 5px 0px;
+    margin: 0px;
+}
